@@ -1,0 +1,8 @@
+{
+  "include": ["src/**/*.ts", "example/**/*.ts"],
+  "compilerOptions": {
+    "module": "ESNext",
+    "esModuleInterop": true,
+    "moduleResolution": "nodenext"
+  }
+}

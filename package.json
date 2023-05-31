@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "ts-node --esm example/main.ts"
+  },
+  "main": "./src/main.ts",
+  "types": "./src/main.ts",
+  "exports": {
+    "default": "./dist/main.ts",
+    "types": "./dist/main.ts",
+    "import": "./dist/main.ts"
+  },
+  "type": "module",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "zod": "^3.21.4"
+  }
+}
