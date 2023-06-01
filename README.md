@@ -1,5 +1,5 @@
 # Zephyreon
-A bot for discord, matrix and in future even more platforms...
+A bot for discord, matrix (planned) and in future even more platforms...
 
 ## ⚠️ Warning ⚠️
 
